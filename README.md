@@ -12,4 +12,5 @@ Use array methods to iterate over the array to find the biggest difference betwe
 - Need to find a good way to store the index of the numbers to then later return it.
 
 # Results and Evaluation
-To be added later.
+- Clearly what I thought at first becomes a weird mess quickly. Simply taking the array with index to store the minimumm value and then evaluate if profit is higher from that point on make a lot more sense.
+- each_with_index solved that problem in the end
