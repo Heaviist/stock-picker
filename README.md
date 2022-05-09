@@ -13,4 +13,5 @@ Use array methods to iterate over the array to find the biggest difference betwe
 
 # Results and Evaluation
 - Clearly what I thought at first becomes a weird mess quickly. Simply taking the array with index to store the minimumm value and then evaluate if profit is higher from that point on make a lot more sense.
-- each_with_index solved that problem in the end
+- each_with_index solved that problem in the end.
+- method has too many lines according to rubocop. There might be a more concise way to write this program, but don't see that right now.
